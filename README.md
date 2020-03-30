@@ -1,4 +1,4 @@
-# first_ios_app
+# Pitch-Perfect
 My First iOS app related to pitch and sounds
 
 The app lets user record the sounds and play it back to the user
